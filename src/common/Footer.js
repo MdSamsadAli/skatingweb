@@ -111,7 +111,7 @@ const Footer = () => {
               <div class="row">
                 <div class="col-md-12">
                   <p>
-                    © 2020 All Rights Reserved. Design by{" "}
+                    © 2025 All Rights Reserved. Design by{" "}
                     <Link
                       to={"https://shamsudin.bluelineaircondition.com/"}
                       target="_blank"
